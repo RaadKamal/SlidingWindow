@@ -1,4 +1,4 @@
-<big>I</big> will attach more problems of this kind. I find this type of exercise to be an excellent workout for sharpening my memory and exercising logical reasoning.
+**I** will attach more problems of this kind. Working through them is an excellent workout for sharpening memory and exercising logical reasoning.
 
 <p align="center">
   <h2>Buy & Sell Pic:</h2>
