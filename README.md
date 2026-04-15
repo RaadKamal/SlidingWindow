@@ -1,3 +1,5 @@
+### I will attach more problems of this kind. I find this type of exercise to be an excellent workout for sharpening my memory and exercising logical reasoning.
+
 <p align="center">
   <h2>Buy & Sell Pic:</h2>
   <img src="https://raw.githubusercontent.com/RaadKamal/SlidingWindow/main/Buy%26Sell.jpg" width="600" alt="Buy and Sell Concept">
