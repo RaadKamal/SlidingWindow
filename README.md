@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <h2>A* Pic:</h2>
-  <img src="https://github.com/user-attachments/assets/2bcb2541-3d9b-428f-8600-35b860db2844" width="600" alt="PictureA">
+  <h2>Contains Duplicate (II) Pic:</h2>
+  <img src="https://raw.githubusercontent.com/RaadKamal/SlidingWindow/main/Contains_Duplicate(II).jpg" width="600" alt="Contains Duplicate II Concept">
 </p>
 
 <p align="center">
