@@ -1,6 +1,6 @@
 <p align="center">
-  <h2>A* Pic:</h2>
-  <img src="https://github.com/user-attachments/assets/2bcb2541-3d9b-428f-8600-35b860db2844" width="600" alt="PictureA">
+  <h2>Buy & Sell Pic:</h2>
+  <img src="https://raw.githubusercontent.com/RaadKamal/SlidingWindow/main/Buy%26Sell.jpg" width="600" alt="Buy and Sell Concept">
 </p>
 
 <p align="center">
