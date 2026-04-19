@@ -1,4 +1,4 @@
-### The Reason: __I__ will attach more problems of this kind. Working through them is an excellent workout for memory retention  and logical reasoning.
+### Working through them is an excellent workout for memory retention  and logical reasoning.
 
 <p align="center">
   <h2>Buy & Sell Pic:</h2>
