@@ -16,6 +16,6 @@
 </p>
 
 <p align="center">
-  <h2>Sliding Window Maximum Pic:</h2>
-  <img src="https://raw.githubusercontent.com/RaadKamal/SlidingWindow/main/SlidingWindowMaximum.jpg" width="600" alt="Sliding Window Maximum Concept">
+  <h2>Sliding Puzzle:</h2>
+  <img src="https://raw.githubusercontent.com/RaadKamal/SlidingWindow/main/Sliding%20Puzzle.jpg" width="600" alt="Sliding Window Maximum Concept">
 </p>
