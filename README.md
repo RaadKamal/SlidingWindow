@@ -1,21 +1,21 @@
 ### Working through them is an excellent workout for memory retention  and logical reasoning.
 
 <p align="center">
-  <h2>Buy & Sell Pic:</h2>
+  <h2>Buy & Sell :</h2>
   <img src="https://raw.githubusercontent.com/RaadKamal/SlidingWindow/main/Buy%26Sell.jpg" width="600" alt="Buy and Sell Concept">
 </p>
 
 <p align="center">
-  <h2>Contains Duplicate (II) Pic:</h2>
+  <h2>Contains Duplicate (II) :</h2>
   <img src="https://raw.githubusercontent.com/RaadKamal/SlidingWindow/main/Contains_Duplicate(II).jpg" width="600" alt="Contains Duplicate II Concept">
 </p>
 
 <p align="center">
-  <h2>Sliding Window Maximum Pic:</h2>
+  <h2>Sliding Window Maximum :</h2>
   <img src="https://raw.githubusercontent.com/RaadKamal/SlidingWindow/main/SlidingWindowMaximum.jpg" width="600" alt="Sliding Window Maximum Concept">
 </p>
 
 <p align="center">
-  <h2>Sliding Puzzle:</h2>
+  <h2>Sliding Puzzle :</h2>
   <img src="https://raw.githubusercontent.com/RaadKamal/SlidingWindow/main/Sliding%20Puzzle.jpg" width="600" alt="Sliding Window Maximum Concept">
 </p>
