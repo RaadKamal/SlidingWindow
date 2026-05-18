@@ -10,6 +10,7 @@ public class SlidingPuzzle {
     Set<State> set = new HashSet<>();
     List<State> list = new ArrayList<>();
     Deque<State> queue = new LinkedList<>();
+    Set<State> visited = new HashSet<>();
 
 
     private static class State {
@@ -45,9 +46,14 @@ public class SlidingPuzzle {
         }
         State NewState=new State(seen.indexOf('0'), seen, 0);
         queue.add(NewState);
+        processQueue(queue);
     }
 
-    public void processQueue() {
+    public void processQueue(Deque<State> queue) {
+        
+        set.add(queue.poll());
+        visited = set;
+
         while (!queue.isEmpty()) {
             State currentState = queue.pollFirst();
             if (currentState == null) {
@@ -56,6 +62,11 @@ public class SlidingPuzzle {
             int ii = currentState.i;
             String bb = currentState.b;
             int lengthh = currentState.length;
+
+                if (bb.equals("123450")) {
+                    System.out.println(lengthh);
+                    return;
+                }
         }
     }
         
