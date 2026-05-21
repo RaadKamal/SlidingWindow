@@ -8,7 +8,6 @@ import java.util.LinkedList;
 public class SlidingPuzzle {
 
     Set<State> set = new HashSet<>();
-    List<Character> list = new ArrayList<>();
     Deque<State> queue = new LinkedList<>();
     Set<State> visited = new HashSet<>();
 
@@ -68,10 +67,19 @@ public class SlidingPuzzle {
                     return lengthh;
                 }
 
-                list =  bb.chars().mapToObj(c -> (char) c).toList();
+           char[] list = bb.toCharArray();
 
-                for (int j =0; j < ADJACENT[ii].length; j++) {
+// Clone it to make your independent copy
+           char[] newlist = list.clone();
+
+                for (int j =0 , i =0 ; j < ADJACENT[i].length; j++) {
                    
+                   newlist[i] =list[j];
+                   newlist[j] = list[i];
+
+
+
+        
                 }
         }
 
