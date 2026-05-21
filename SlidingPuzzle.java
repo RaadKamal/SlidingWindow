@@ -8,7 +8,7 @@ import java.util.LinkedList;
 public class SlidingPuzzle {
 
     Set<State> set = new HashSet<>();
-    List<State> list = new ArrayList<>();
+    List<Character> list = new ArrayList<>();
     Deque<State> queue = new LinkedList<>();
     Set<State> visited = new HashSet<>();
 
@@ -49,7 +49,7 @@ public class SlidingPuzzle {
         processQueue(queue);
     }
 
-    public void processQueue(Deque<State> queue) {
+    public int processQueue(Deque<State> queue) {
         
         set.add(queue.poll());
         visited = set;
@@ -65,9 +65,17 @@ public class SlidingPuzzle {
 
                 if (bb.equals("123450")) {
                     System.out.println(lengthh);
-                    return;
+                    return lengthh;
+                }
+
+                list =  bb.chars().mapToObj(c -> (char) c).toList();
+
+                for (int j =0; j < ADJACENT[ii].length; j++) {
+                   
                 }
         }
+
+        return -1;
     }
         
     public static void main(String[] args) {
