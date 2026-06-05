@@ -3,7 +3,7 @@ import java.util.Queue;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+public class SlidingPuzzle {
     
     // Encapsulates the traversal state to maintain structural integrity within the queue.
     private static class State {
